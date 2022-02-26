@@ -7,4 +7,5 @@ Espero que esse simples código consiga te ajudar em algo.
 Bibliotecas utilizadas:
 
 ESP8266HTPPClient
+
 ESP8266WiFi
